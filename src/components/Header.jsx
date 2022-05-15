@@ -4,8 +4,8 @@ import React from "react"
 
 const Header = () => {
     return (
-        <div>
-            <h1>Testando</h1>
+        <div className="header">
+            <h1>React Keeper</h1>
         </div>
     )
 }

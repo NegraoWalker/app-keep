@@ -1,0 +1,13 @@
+.note {
+    height: 100vh;
+    display: flex;
+}
+
+.note-container {
+    margin: 16px;
+    padding: 16px;
+    max-width: 250px;
+    border: 2px solid black;
+    height: 300px;
+    background-color: beige;
+}
